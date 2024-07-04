@@ -11,7 +11,7 @@ Run the program with three arguments:
 Example:
 ```bash
 go run main.go 100 USD EUR
-
+```
 ## API
 
 Uses ExchangeRate-API
