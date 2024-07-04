@@ -16,9 +16,4 @@ go run main.go 100 USD EUR
 
 Uses ExchangeRate-API
 
-## Build and Run 
 
-```go 
-  build main.go 
-  ./main <amount> <from_currency> <to_currency>
-```
